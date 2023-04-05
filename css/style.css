@@ -1,0 +1,17 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: lightpink;
+	margin-bottom: 13px;
+}
+.box{
+	margin: 13px 0;
+	height: 80px;
+	background-color: deepskyblue;
+	color: black;
+	font-size: 30px;
+}
+.red{
+	background-color: springgreen;
+}
+.five{
+	background-color: deeppink;
+}
